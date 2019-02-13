@@ -67,7 +67,7 @@ python network.py --data Indian_pines --epochs 650
 ```
 
 
-If you enjoyed our paper, you could cite it via this bibtex ❤
+If you enjoyed our paper, you could cite it via this bibtex
 ```
 
 @inproceedings{arc19liu,
